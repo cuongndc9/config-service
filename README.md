@@ -15,6 +15,6 @@ $ go run main.go
 - [https://petisland-config-service.herokuapp.com/prod](https://petisland-config-service.herokuapp.com/prod)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
-🦖
+Stay curious. Keep learning. Keep growing.
+🧑‍💻
 <!-- INSPIRATIONAL_QUOTE_END -->
