@@ -15,6 +15,6 @@ $ go run main.go
 - [https://petisland-config-service.herokuapp.com/prod](https://petisland-config-service.herokuapp.com/prod)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Be a lifelong learner, not a know-it-all.
-🧑‍💻
+Action beats perfection.
+🦄
 <!-- INSPIRATIONAL_QUOTE_END -->
