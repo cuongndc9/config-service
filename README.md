@@ -15,6 +15,6 @@ $ go run main.go
 - [https://petisland-config-service.herokuapp.com/prod](https://petisland-config-service.herokuapp.com/prod)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
-🦄
+The best way to predict the future is to create it.
+🧑‍💻
 <!-- INSPIRATIONAL_QUOTE_END -->
