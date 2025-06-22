@@ -16,5 +16,5 @@ $ go run main.go
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "People who are crazy enough to think they can change the world, are the ones who do." - Rob Siltanen
+> "Don't let yesterday take up too much of today." - Will Rogers
 <!-- INSPIRATIONAL_QUOTE_END -->
